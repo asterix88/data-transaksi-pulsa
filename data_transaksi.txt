@@ -1,0 +1,41 @@
+[ DATA TRANSAKSI PULSA UB KEL.KALIJIREK ]
+
+===================================
+Tanggal: 7 Oktober 2018 (18:15)
+Nomor HP: 08xxxxxxxxxx
+Nama: Mr.X
+Harga Asli: 9999
+Harga jual9999
+==========================
+Tanggal: 6 Oktober 2018 (21:19)
+Nomor HP: 08xxxxxxxx
+Nama: Mr.Anu
+Harga Asli: 9999
+Harga jual9999
+==========================
+Tanggal: 0-0-0000
+Nomor HP: 08xxxxxxxx
+Nama: 000.000
+Harga Asli: 9999
+Harga jual9999
+Tanggal: 0000000
+Nomor HP: )0)000
+Nama: 00)))
+Harga Asli: 0))0000
+Harga jual000000
+Status PembayaranBrlum Bauar
+==========================
+Tanggal: 00-00-0000
+Nomor HP: 08xxxxxxxx
+Nama: Mrs.Anu
+Harga Asli: 9000
+Harga jual: 11000
+Status Pembayaran: Belum Bayar
+==========================
+Tanggal: 
+Nomor HP: 
+Nama: 
+Harga Asli: 
+Harga jual: 
+Status Pembayaran: 
+==========================
